@@ -5,5 +5,5 @@ define(['jquery', 'split-pane','TCanvas', 'TEnvironment', 'TEditor', 'TLog','Tes
 
 
     }
-    
-}
+    return TAffiche;
+});
